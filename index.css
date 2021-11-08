@@ -1,4 +1,5 @@
 body{
   background-image: url("mista-image.jpg");
+  background-size: auto;
   color: white;
 }
